@@ -1,0 +1,12 @@
+elements.smashed_olive = {
+    color: "#FFFFFF",
+    behavior: behaviors.LIQUID,
+    category: "liquids",
+    state: "liquid",
+    density: 866,
+    desc: "test",
+    burn: 37.5,
+    burnTime: 900,
+    burnInto: ["steam", "smoke", "fire", "fire",],  
+    tempHigh: 111,
+}
